@@ -1,4 +1,4 @@
-# PORTFOLIO
-This is my portfoli project
+ # PORTFOLIO
+This is my portfolio project
 
-linkthis video :)
+link this video :)
